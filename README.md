@@ -1,2 +1,2 @@
-# Toir_Android_App
-Android App for Toir Services
+# Toir_IOS_App
+IOS App for Toir Services
